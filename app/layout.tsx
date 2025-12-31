@@ -64,7 +64,7 @@ export const metadata: Metadata = {
       "A religious and social organization dedicated to building an ideal Islamic society through education, youth development, and community service. Founded in 2018 in Kushtia, Bangladesh, following the path of Quran and Sunnah.",
     images: [
       {
-        url: "/og-image.png",
+        url: "https://al-khidmah.org/og-image.png",
         width: 1200,
         height: 630,
         alt: "Al-Khidmah Organization - Serving Humanity Through Islamic Values",
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
     title: "Al-Khidmah Organization | Serving Humanity Through Islamic Values",
     description:
       "A religious and social organization dedicated to building an ideal Islamic society through education, youth development, and community service based on Quran and Sunnah.",
-    images: ["/og-image.png"],
+    images: ["https://al-khidmah.org/og-image.png"],
     creator: "@alkhidmah",
   },
   robots: {
