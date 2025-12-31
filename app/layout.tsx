@@ -103,7 +103,7 @@ export const metadata: Metadata = {
       "bn-BD": "https://al-khidmah.org",
     },
   },
-  category: "Non-Profit Organization",
+  category: "Social Organization",
   icons: {
     icon: [
       { url: "/favicon.svg", type: "image/png" },

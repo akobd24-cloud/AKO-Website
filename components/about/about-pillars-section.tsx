@@ -14,7 +14,7 @@ export function AboutPillarsSection({ language }: { language: Language }) {
       description:
         language === 'bn'
           ? 'কুরআন ও সুন্নাহভিত্তিক বিশুদ্ধ ইসলামের দাওয়াহ, শিক্ষা, সংস্কৃতি ও মূল্যবোধের প্রচার প্রসার করা'
-          : 'Dawah and Teaching Quran and Hadith and practicing Islamic values',
+          : 'Promoting and spreading the dawah, education, culture, and values of pure Islam based on the Quran and Sunnah',
     },
     {
       icon: Heart,
@@ -22,7 +22,7 @@ export function AboutPillarsSection({ language }: { language: Language }) {
       description:
         language === 'bn'
           ? 'দ্বীন, কওম (জাতি) ও যমীনের (দেশের) স্বার্থে বিভিন্ন জনসচেতনতা ও জনকল্যাণে সামাজিক সেবামূলক কার্যক্রম পরিচালনা করা'
-          : 'Providing humanitarian assistance to the poor and helpless',
+          : 'Conducting various awareness and welfare-oriented social activities for the benefit of Deen (religion), Qawm (nation), and Zameen (country)',
     },
     {
       icon: Users,
@@ -34,11 +34,11 @@ export function AboutPillarsSection({ language }: { language: Language }) {
     },
     {
       icon: PiMosque,
-      title: language === 'bn' ? 'আদর্শ সমাজ বিনির্মাণ' : 'Reconstruction',
+      title: language === 'bn' ? 'আদর্শ সমাজ বিনির্মাণ' : 'Building an Ideal Society',
       description:
         language === 'bn'
           ? 'ওহীর আলোকে মাসজিদকেন্দ্রিক আদর্শ সমাজ বিনির্মাণ করা যেখানে শান্তি ও নিরাপত্তা, ন্যায়পরায়নতা ও কল্যাণ সর্বত্র ছড়িয়ে থাকে।'
-          : 'Reconstruction of Islamic Civilization',
+          : 'Building a mosque-centered ideal society based on the light of revelation where peace and security, justice, and welfare spread everywhere.',
     },
   ];
 
@@ -49,7 +49,7 @@ export function AboutPillarsSection({ language }: { language: Language }) {
       <div className='container mx-auto px-4 relative z-10'>
         <div className='text-center mb-16'>
           <h2 className='font-serif text-4xl md:text-5xl font-bold text-foreground mb-4 text-balance'>
-            {language === 'bn' ? 'কাজের খাতসমূহ' : 'Sectors of work'}
+            {language === 'bn' ? 'কাজের খাতসমূহ' : 'Areas of Work'}
           </h2>
           <div className='w-24 h-1 bg-primary mx-auto mb-6' />
         </div>

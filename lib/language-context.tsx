@@ -231,18 +231,18 @@ const translations = {
     'about.title': 'About Us',
     'about.subtitle': 'On the Path of Service and Faith',
     'about.description':
-      "Al-Khidmah Organization is a religious and social organization dedicated to the khidmah (service) of Deen Islam, the Muslim qawm, and the land of Bengal, as well as to building an ideal Islamic society. It was founded in September 2018 by Muhammad Hridoy Hasan with the aim of organizing Muslim adolescents, youth, and young adults of the Thanapara area of Kushtia city and working collectively with them.Following the footsteps of Habibullah, Imamul Mursalin, Khatamun Nabiyyin, Nabiyyul Malhamah, and Rahmatullil 'Alamin — the great Nabi Muhammad (Sallallahu 'Alaihi wa Sallam) — the organization continuously carries out various programs for the promotion and expansion of Islamic da'wah, education, and culture; the service of humanity; youth development; social reform; instilling the highest moral consciousness; and developing the best akhlaq and a pure mindset. Above all, it strives with utmost effort to establish an ideal Islamic society.Building lives, generations, and society based on the Qur'an and Sunnah, and the propagation and expansion of authentic 'ilm, are among the core objectives of Al-Khidmah Organization. Following the path of the Salaf-e-Salihin, adhering to Qur'an and Sunnah-based moderation is our principle.",
+      "Al-Khidmah Organization is a religious and social organization dedicated to the khidmah (service) of Deen Islam, the Muslim qawm, and the land of Bengal, as well as to building an ideal Islamic society. It was founded in September 2018 by Muhammad Hridoy Hasan with the aim of organizing Muslim adolescents, youth, and young adults of the Thanapara area of Kushtia city and working collectively with them. Following the footsteps of Habibullah, Imamul Mursalin, Khatamun Nabiyyin, Nabiyyul Malhamah, and Rahmatullil 'Alamin — the great Nabi Muhammad (Sallallahu 'Alaihi wa Sallam) — the organization continuously carries out various programs for the promotion and expansion of Islamic da'wah, education, and culture; the service of humanity; youth development; social reform; instilling the highest moral consciousness; and developing the best akhlaq and a pure mindset. Above all, it strives with utmost effort to establish an ideal Islamic society. Building lives, generations, and society based on the Qur'an and Sunnah, and the propagation and expansion of authentic 'ilm, are among the core objectives of Al-Khidmah Organization. Following the path of the Salaf-e-Salihin, adhering to Qur'an and Sunnah-based moderation is our principle.",
     'about.pillar1.title': 'Religious Education',
     'about.pillar1.description':
-      'Teaching Quran and Hadith and practicing Islamic values',
+      'Promoting and spreading the dawah, education, culture, and values of pure Islam based on the Quran and Sunnah',
     'about.pillar2.title': 'Social Service',
     'about.pillar2.description':
-      'Providing humanitarian assistance to the poor and helpless',
+      'Conducting various awareness and welfare-oriented social activities for the benefit of Deen (religion), Qawm (nation), and Zameen (country)',
     'about.pillar3.title': 'Youth Development',
     'about.pillar3.description':
       'Training to enhance skills and develop leadership among youth',
-    'about.pillar4.title': 'Reconstruction',
-    'about.pillar4.description': 'Reconstruction of Islamic Civilization',
+    'about.pillar4.title': 'Building an Ideal Society',
+    'about.pillar4.description': 'Building a mosque-centered ideal society based on the light of revelation where peace and security, justice, and welfare spread everywhere.',
 
     // Programs Section
     'programs.title': 'Our Activities',
@@ -251,7 +251,7 @@ const translations = {
     'programs.quran.title': "Tafsir al-Qur'an Gatherings",
     'programs.quran.description':
       'Regular public tafsir sessions that provide accessible Qur’an education for everyone, focusing on understanding, reflection, and living by its guidance.',
-    'programs.scholarship.title': 'Muslim Yuth Conferance Kushtia 2024',
+    'programs.scholarship.title': 'Muslim Youth Conference Kushtia 2024',
     'programs.scholarship.description':
       'Day-long seminars and conferences designed to deepen understanding of contemporary Islamic movements, history, and practical frameworks for action.',
     'programs.health.title': 'Sports Day',

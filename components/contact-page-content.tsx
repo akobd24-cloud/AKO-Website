@@ -205,27 +205,42 @@ export function ContactPageContent() {
                     {language === 'bn' ? 'সামাজিক মাধ্যম' : 'Social Media'}
                   </h3>
                   <div className='flex gap-3'>
-                    <Button
-                      size='icon'
-                      variant='outline'
-                      className='rounded-full hover:bg-primary hover:text-primary-foreground transition-colors bg-transparent'
+                    <a
+                      href="https://www.facebook.com/ako.kst.bd"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label="Facebook"
                     >
-                      <Facebook className='w-5 h-5' />
-                    </Button>
+                      <Button
+                        size='icon'
+                        variant='outline'
+                        className='rounded-full hover:bg-primary hover:text-primary-foreground transition-colors bg-transparent'
+                      >
+                        <Facebook className='w-5 h-5' />
+                      </Button>
+                    </a>
                     <Button
                       size='icon'
                       variant='outline'
                       className='rounded-full hover:bg-primary hover:text-primary-foreground transition-colors bg-transparent'
+                      disabled
                     >
                       <Instagram className='w-5 h-5' />
                     </Button>
-                    <Button
-                      size='icon'
-                      variant='outline'
-                      className='rounded-full hover:bg-primary hover:text-primary-foreground transition-colors bg-transparent'
+                    <a
+                      href="https://www.youtube.com/@AlKhidmahOrganization"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label="YouTube"
                     >
-                      <Youtube className='w-5 h-5' />
-                    </Button>
+                      <Button
+                        size='icon'
+                        variant='outline'
+                        className='rounded-full hover:bg-primary hover:text-primary-foreground transition-colors bg-transparent'
+                      >
+                        <Youtube className='w-5 h-5' />
+                      </Button>
+                    </a>
                   </div>
                 </CardContent>
               </Card>

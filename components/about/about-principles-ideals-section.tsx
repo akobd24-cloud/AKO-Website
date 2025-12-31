@@ -35,7 +35,7 @@ export function AboutPrinciplesIdealsSection({
       description:
         language === 'bn'
           ? 'পবিত্র কুরআন ও আল্লাহর রাসূল মুহাম্মাদ (সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম)-এর সুন্নাহ তথা কর্মনীতিই আস-সুন্নাহ ফাউন্ডেশনের মূল আদর্শ।'
-          : 'The Holy Quran and the Sunnah (way of life) of Allah\'s Messenger Muhammad (peace be upon him) are the fundamental ideals of Al-Sunnah Foundation.',
+          : 'The Holy Quran and the Sunnah (way of life) of Allah\'s Messenger Muhammad (peace be upon him) are the fundamental ideals of Al-Khidmah Organization.',
     },
     {
       icon: Scale,
