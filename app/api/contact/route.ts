@@ -1,7 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { Resend } from 'resend';
 
-const resend = new Resend(process.env.RESEND_CONTACT_API_KEY);
+// Initialize Resend with fallback for build time
+const resend = new Resend(process.env.RESEND_CONTACT_API_KEY || 're_build_placeholder');
 
 // Helper function to escape HTML and prevent XSS
 function escapeHtml(text: string): string {
