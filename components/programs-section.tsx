@@ -8,11 +8,35 @@ export function ProgramsSection() {
   const { t } = useLanguage();
 
   const programs = [
-      {
+    {
       title: t('programs.antiThirteenth.title'),
       description: t('programs.antiThirteenth.description'),
       image: '/31st-2025.jpg',
       category: t('about.pillar1.title'),
+    },
+    {
+      title: t('programs.protest.title'),
+      description: t('programs.protest.description'),
+      image: '/programs/muslim-unity-protest.jpeg',
+      category: t('about.pillar2.title'),
+    },
+    {
+      title: t('programs.posterCampaign.title'),
+      description: t('programs.posterCampaign.description'),
+      image: '/programs/postering-campeign.jpeg',
+      category: t('about.pillar2.title'),
+    },
+    {
+      title: t('programs.humanChain.title'),
+      description: t('programs.humanChain.description'),
+      image: '/programs/human-chain.jpeg',
+      category: t('about.pillar2.title'),
+    },
+    {
+      title: t('programs.protestMarch.title'),
+      description: t('programs.protestMarch.description'),
+      image: '/programs/protest-march.jpeg',
+      category: t('about.pillar2.title'),
     },
     {
       title: t('programs.quran.title'),
@@ -50,7 +74,6 @@ export function ProgramsSection() {
       image: '/programs/july-fighters.jpg',
       category: t('about.pillar3.title'),
     },
-  
   ];
 
   return (

@@ -79,6 +79,18 @@ const translations = {
     'programs.antiThirteenth.title': 'এন্টি-থার্টিফার্স্ট নাইট ক্যাম্পেইন ২০২৫',
     'programs.antiThirteenth.description':
       'তথাকথিত থার্টি-ফার্স্ট নাইট বা হ্যাপি নিউ ইয়ার নামক আত্মপরিচয় বিনষ্টকারী পশ্চিমা জাহিলি সংস্কৃতির উন্মাদনা, মাদকতা ও ধ্বংসাত্মক পরিণতি থেকে কুষ্টিয়ার মুসলিম কিশোর-তরুণ-যুবকদের ফিরিয়ে আনতে আমাদের ক্ষুদ্র প্রচেষ্টা..',
+    'programs.protest.title': 'মুসলিমবন্ধন ও প্রতিবাদ সমাবেশ',
+    'programs.protest.description':
+      'মহান আল্লাহ রব্বুল আলামিন সম্পর্কে প্রকাশ্যে বাউল আবুল সরকারের কুরুচিপূর্ণ কটুক্তি, কটুক্তির ফলে বাংলার মুসলিমদের স্বাভাবিক ঈমানী প্রতিক্রিয়াকে ফরহাদ মজহারসহ রাম বাম, মিড়িয়া, রাজনৈতিক ও সাংস্কৃতিক গোষ্ঠীর লোকেরা \'ধর্মীয় ফ্যাসিজম\' \'ধর্মীয় উগ্রতা\' ও মুসলিমদের \'উগ্র ধর্মান্ধ\' \'নব্য ধর্মীয় ফ্যাসিস্ট\' আখ্যা দেওয়া এবং তাওহীদে (মহান আল্লাহর এককত্বে) বিশ্বাসী মুসলিমদের উপর সেক্যুলার রাষ্ট্রের নির্যাতন-নিপীড়ন-গ্রেফতারের প্রতিবাদে ২৯ শে নভেম্বর ২০২৫ ঈসায়ী তারিখে কুষ্টিয়া কেন্দ্রীয় জামে মাসজিদ, থানাপাড়াতে আয়োজিত \'মুসলিমবন্ধন ও প্রতিবাদ সমাবেশ\'।',
+    'programs.posterCampaign.title': 'শাতিমে রাসুল ইস্যুতে পোস্টারিং ক্যাম্পেইন',
+    'programs.posterCampaign.description':
+      'নবী প্রেমে উজ্জীবিত করার লক্ষ্যে এবং নাবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে নিয়ে কটুক্তিকারীদের বিষয়ে সেক্যুলার রাষ্ট্র, মিডিয়া, প্রসাশন, সাংস্কৃতিক ও রাজনৈতিক গোষ্ঠীর নিশ্চুপ নীরবতা সম্পর্কে সচেতনতা তৈরির লক্ষ্যে ১৮ই নভেম্বর ২০২৫ ঈসায়ী তারিখে কুষ্টিয়া শহরের বিভিন্ন এলাকায় পোস্টারিং ক্যাম্পেইন পরিচালনা করা হয়।',
+    'programs.humanChain.title': 'মানববন্ধন',
+    'programs.humanChain.description':
+      '১৩ই অক্টোবর ২০২৫ ঈসায়ী তারিখে কুষ্টিয়া পাবলিক লাইব্রেরীর সামনে এন এস রোডে কুষ্টিয়ার সর্বস্তরের জনগণ কর্তৃক আয়োজিত জাতীয় দিবসের নামে রীতিমতো আইন করে লালনের মৃত্যু দিবসকে জোরপূর্বক মুসলিমদের উপর চাপিয়ে দেওয়া প্রসঙ্গে, লালনের আখড়া বাড়িতে মাদক সেবন ও ক্রয় বিক্রয়ের বিরুদ্ধে আয়োজিত মানববন্ধনে অংশগ্রহণ করে আল-খিদমাহ অর্গানাইজেশন।',
+    'programs.protestMarch.title': 'বিক্ষোভ মিছিল ও প্রতিবাদী সমাবেশ',
+    'programs.protestMarch.description':
+      'এনসিটিবির রাখাল রাহা, কবি ও সাহিত্যিক সোহেল হাসান গালিব, নর্থ সাউথ বিশ্ববিদ্যালয়ের অপূর্ব পাল ও ইউনাইটেড ইন্টারন্যাশনাল ইউনিভার্সিটির মোনসের আলি কর্তৃক আল্লাহ রব্বুল আলামিন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম, আল্লাহর কিতাব আল-কুরআন ও আল্লাহর দ্বীন ইসলামের অবমাননা এবং বরাবরের মতো সেক্যুলার রাষ্ট্রের নিশ্চুপ নীরবতা, মামলা খারিজ ও পুলিশি নিরাপত্তার মধ্য দিয়ে নিকৃষ্ট অপরাধীদের অপরাধের বৈধতা ও উৎসাহ প্রদানের প্রতিবাদে ১০ই অক্টোবর ২০২৫ ঈসায়ী তারিখে কুষ্টিয়া ইসলামিয়া কলেজ এন এস রোডে আয়োজিত হয় \'বিক্ষোভ মিছিল ও প্রতিবাদী সমাবেশ\'।',
     'programs.learnMore': 'বিস্তারিত জানুন',
 
     // Events Section
@@ -269,6 +281,18 @@ const translations = {
     'programs.antiThirteenth.title': 'Anti-Thirteenth Night Campaign 2025',
     'programs.antiThirteenth.description':
       'Our small effort to bring back the Muslim adolescents, youths, and young people of Kushtia from the frenzy, intoxication, and destructive consequences of the so-called Thirty-First Night or Happy New Year—a Western jahili culture that erodes identity.',
+    'programs.protest.title': 'Muslim Unity and Protest Gathering',
+    'programs.protest.description':
+      'A protest gathering organized on November 29, 2025, at Kushtia Central Jame Masjid, Thanapara, in response to Baul Abul Sarkar\'s vulgar remarks about Allah (SWT), the labeling of Bengali Muslims\' natural faith-based reactions as "religious fascism" and "religious extremism" by Farhad Mazhar and others from left-right, media, political, and cultural groups, and the persecution, oppression, and arrests of Muslims who believe in Tawheed (the Oneness of Allah) by the secular state.',
+    'programs.posterCampaign.title': 'Postering Campaign on the Issue of Insulting the Prophet',
+    'programs.posterCampaign.description':
+      'A postering campaign conducted on November 18, 2025, in various areas of Kushtia city to inspire love for the Prophet and raise awareness about the silence of the secular state, media, administration, cultural and political groups regarding those who make offensive remarks about the Prophet (peace be upon him).',
+    'programs.humanChain.title': 'Human Chain',
+    'programs.humanChain.description':
+      'Al-Khidmah Organization participated in a human chain organized on October 13, 2025, on NS Road in front of Kushtia Public Library by people from all levels of Kushtia, protesting against the forced imposition of Lalon\'s death anniversary on Muslims through legislation in the name of a national day, and against drug consumption and trade at Lalon\'s akhra house.',
+    'programs.protestMarch.title': 'Protest March and Protest Gathering',
+    'programs.protestMarch.description':
+      'A protest march and gathering organized on October 10, 2025, on NS Road at Kushtia Islamia College, protesting against the disrespect shown to Allah (SWT), the Messenger of Allah (peace be upon him), the Book of Allah (Al-Quran), and the religion of Islam by NCTB\'s Rakhal Raha, poet and writer Sohel Hasan Galib, North South University\'s Oporup Pal, and United International University\'s Monser Ali, and against the secular state\'s persistent silence, case dismissals, and police protection that legitimize and encourage the crimes of the worst offenders.',
     'programs.learnMore': 'Learn More',
 
     // Events Section
