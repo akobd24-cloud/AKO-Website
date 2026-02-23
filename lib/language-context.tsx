@@ -91,6 +91,12 @@ const translations = {
     'programs.protestMarch.title': 'বিক্ষোভ মিছিল ও প্রতিবাদী সমাবেশ',
     'programs.protestMarch.description':
       'এনসিটিবির রাখাল রাহা, কবি ও সাহিত্যিক সোহেল হাসান গালিব, নর্থ সাউথ বিশ্ববিদ্যালয়ের অপূর্ব পাল ও ইউনাইটেড ইন্টারন্যাশনাল ইউনিভার্সিটির মোনসের আলি কর্তৃক আল্লাহ রব্বুল আলামিন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম, আল্লাহর কিতাব আল-কুরআন ও আল্লাহর দ্বীন ইসলামের অবমাননা এবং বরাবরের মতো সেক্যুলার রাষ্ট্রের নিশ্চুপ নীরবতা, মামলা খারিজ ও পুলিশি নিরাপত্তার মধ্য দিয়ে নিকৃষ্ট অপরাধীদের অপরাধের বৈধতা ও উৎসাহ প্রদানের প্রতিবাদে ১০ই অক্টোবর ২০২৫ ঈসায়ী তারিখে কুষ্টিয়া ইসলামিয়া কলেজ এন এস রোডে আয়োজিত হয় \'বিক্ষোভ মিছিল ও প্রতিবাদী সমাবেশ\'।',
+    'programs.halalLoveCampaign.title': '‘তোমাকে ভালোবাসি বলে’ পোস্টারিং ক্যাম্পেইন',
+    'programs.halalLoveCampaign.description':
+      'প্রতিবছরের ন্যায় ‘তোমাকে ভালোবাসি বলে’ শিরোনামে কুষ্টিয়া শহরের মুসলিমদের হারাম সম্পর্ক, যিনা, অশ্লীলতা, গর্ভপাত ও আত্মহত্যার ভয়াবহতা সম্পর্কে সচেতন করতে এবং হালাল ভালোবাসা ও যিনামুক্ত শহর গঠনের আহ্বানে আল-খিদমাহ অর্গানাইজেশন পোস্টারিং ক্যাম্পেইন পরিচালনা করছে।',
+    'programs.ramadanSchedule.title': 'রমাদানের সাহরী ও ইফতার সময়সূচী টাঙানো',
+    'programs.ramadanSchedule.description':
+      'আলহামদুলিল্লাহ, আল-খিদমাহ অর্গানাইজেশন কুষ্টিয়া শহরের ১৫টি মাসজিদে রমাদানের সাহরী ও ইফতারের সময়সূচী ঝুলিয়ে দিয়ে রমাদানের ফজীলত অর্জন, গাজা ফিলিস্তিনসহ মাজলুম মুসলিমদের জন্য দু‘আ এবং ঈমানি পরিবেশ রক্ষায় সচেতনতা তৈরির কার্যক্রম সম্পন্ন করেছে।',
     'programs.learnMore': 'বিস্তারিত জানুন',
 
     // Events Section
@@ -293,6 +299,12 @@ const translations = {
     'programs.protestMarch.title': 'Protest March and Protest Gathering',
     'programs.protestMarch.description':
       'A protest march and gathering organized on October 10, 2025, on NS Road at Kushtia Islamia College, protesting against the disrespect shown to Allah (SWT), the Messenger of Allah (peace be upon him), the Book of Allah (Al-Quran), and the religion of Islam by NCTB\'s Rakhal Raha, poet and writer Sohel Hasan Galib, North South University\'s Oporup Pal, and United International University\'s Monser Ali, and against the secular state\'s persistent silence, case dismissals, and police protection that legitimize and encourage the crimes of the worst offenders.',
+    'programs.halalLoveCampaign.title': '“Because I Love You” Halal Love Campaign',
+    'programs.halalLoveCampaign.description':
+      'An annual city-wide postering campaign titled “Because I Love You” that raises awareness among Muslims in Kushtia about the dangers of haram relationships, zina, obscenity, abortion, and suicide, while calling people toward halal love and building a zina-free, ideal society.',
+    'programs.ramadanSchedule.title': 'Ramadan Suhur & Iftar Schedule Campaign',
+    'programs.ramadanSchedule.description':
+      'Alhamdulillah, Al-Khidmah Organization has completed hanging Ramadan suhur and iftar schedules in 15 mosques across Kushtia city, encouraging Muslims to honor the virtues of Ramadan, make dua for oppressed Muslims in Gaza and beyond, and uphold an iman-centered community environment.',
     'programs.learnMore': 'Learn More',
 
     // Events Section

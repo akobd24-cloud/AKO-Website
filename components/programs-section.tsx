@@ -9,6 +9,18 @@ export function ProgramsSection() {
 
   const programs = [
     {
+      title: t('programs.ramadanSchedule.title'),
+      description: t('programs.ramadanSchedule.description'),
+      image: '/programs/ramadan_26.jpg',
+      category: t('about.pillar4.title'),
+    },
+    {
+      title: t('programs.halalLoveCampaign.title'),
+      description: t('programs.halalLoveCampaign.description'),
+      image: '/programs/tomake_valobashi_bole.jpg',
+      category: t('about.pillar4.title'),
+    },
+    {
       title: t('programs.antiThirteenth.title'),
       description: t('programs.antiThirteenth.description'),
       image: '/31st-2025.jpg',
